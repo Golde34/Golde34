@@ -12,3 +12,9 @@ Still just making things as I learn, nothing groundbreaking yet, but I'll keep p
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Golde34&theme=onedark&hide_border=true"/>
 	<p>🌟 The streak will keep growing! 🌟</p>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github_golde34.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github_golde_light.svg" />
+  <img alt="github-snake" src="github_golde34.svg" />
+</picture>
